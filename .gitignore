@@ -1,0 +1,15 @@
+.idea
+logs
+.mvn
+target
+work
+*.iml
+src/main/resources/static/app/.sass-cache/
+src/main/resources/static/app/dist/
+/out/
+.classpath
+.project
+.settings
+/.classpath
+/.project
+/.settings
